@@ -23,13 +23,18 @@ stackoverflow.com
 
 Errors:
 I am getting segmentation fault error 11 each time I run the program, and I was unable to debug this
+
 From what I could understand online, it may be due to the fact that my 2D array board was sized based on variables, but I am unsure of how to fix this
+
 This causes the program to cutoff short, and it never reaches the output part.
+
 If the program were to run past this, I elected to have the simulation stop after 1000 if it is infinite
+
 I also was unable to do the pause option for the output styles correctly
 
 To run:
 I used g++ to test the programs, but I have also included a makefile
 
 g++ *.cpp
+
 ./a.out
