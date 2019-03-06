@@ -1,8 +1,12 @@
 # GameOfLife
 //Katherine Hansen
+
 //2326665
+
 //CPSC350-01
+
 //Assignment 2: Game of Life
+
 //This program runs the game of life module giving the user a choice of input and output styles and modes
 
 Source Files:
